@@ -1,0 +1,5 @@
+Flask==0.10.1                           # our app web framework
+Flask-RESTful==0.3.1                    # flask helper for restful responses
+pyaml==14.12.10                         # for reading the yaml config file
+virtualenv==12.0.5                      # enables wrapping pip installation under a namespace like 'dal' or 'algo_server'
+virtualenvwrapper==4.3.2                # virtualenv utilities
