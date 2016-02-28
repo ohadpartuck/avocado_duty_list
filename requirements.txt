@@ -5,4 +5,4 @@ virtualenv==12.0.5                      # enables wrapping pip installation unde
 virtualenvwrapper==4.3.2                # virtualenv utilities
 flask-mongoengine==0.7.5                # ORM for mongodb
 flask-debugtoolbar==0.10.0              # a debug panel
-twilio==5.3.0                 		# for sms
+Slacker==0.9.2                          # slack integration
